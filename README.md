@@ -2,6 +2,8 @@
 
 A set of agent skills for writing dev.to posts in your own voice, auditing what actually worked, and feeding those results into the next draft. Works with OpenCode, Claude Code, and other agents that load `SKILL.md` files.
 
+![Why my AI writer waits 10 posts before learning — the dev-skills learning loop](docs/cover.jpeg)
+
 ## Why
 
 Generic writing advice is a prior. Your own posts are the evidence. These skills close the loop:
