@@ -1,0 +1,139 @@
+{
+  "formulas": [
+    {
+      "id": "#1",
+      "name": "Numbered Listicle",
+      "template": "N [Things/Tools/Tips/Steps] Every [Audience] Should Know",
+      "example": "10 JavaScript Projects in 10 Hours - Coding Challenge",
+      "best_for": "reach, saves, beginner audience",
+      "weight": 1.0,
+      "uses": 0,
+      "wins": 0,
+      "learned_at": null
+    },
+    {
+      "id": "#2",
+      "name": "How To",
+      "template": "How to Build/Do X with [Tool]",
+      "example": "Add a GraphQL Server to a RESTful Express.js API in 2 Minutes",
+      "best_for": "tutorial traffic, evergreen search",
+      "weight": 1.0,
+      "uses": 0,
+      "wins": 0,
+      "learned_at": null
+    },
+    {
+      "id": "#3",
+      "name": "Mistake",
+      "template": "N Mistakes I Made / Mistakes to Avoid in X",
+      "example": "For two years I charged clients for hours I wasted formatting",
+      "best_for": "engagement, contrarian take",
+      "weight": 1.0,
+      "uses": 0,
+      "wins": 0,
+      "learned_at": null
+    },
+    {
+      "id": "#4",
+      "name": "Personal Story",
+      "template": "I [Did/Built/Learned] X; You Can Too",
+      "example": "I Passed The Google Technical Interviews; You Can Too.",
+      "best_for": "comments, trust, career content",
+      "weight": 1.0,
+      "uses": 0,
+      "wins": 0,
+      "learned_at": null
+    },
+    {
+      "id": "#5",
+      "name": "Contrarian / Take",
+      "template": "Why [Everyone/Devs] Keep Trying to Kill X",
+      "example": "Why do Webdevs keep trying to kill REST?",
+      "best_for": "reactions, debate",
+      "weight": 1.0,
+      "uses": 0,
+      "wins": 0,
+      "learned_at": null
+    },
+    {
+      "id": "#6",
+      "name": "Question / Discussion",
+      "template": "[Question]?",
+      "example": "Is live coding fun?",
+      "best_for": "#discuss tag, comment volume",
+      "weight": 1.0,
+      "uses": 0,
+      "wins": 0,
+      "learned_at": null
+    },
+    {
+      "id": "#7",
+      "name": "Roadmap / Guide",
+      "template": "How to Learn X [Roadmap] / The Beginner's Guide to X",
+      "example": "How to Learn Software Design and Architecture [Roadmap]",
+      "best_for": "evergreen, saves",
+      "weight": 1.0,
+      "uses": 0,
+      "wins": 0,
+      "learned_at": null
+    },
+    {
+      "id": "#8",
+      "name": "Announcement / Launch",
+      "template": "Introducing X / Meet X!",
+      "example": "Meet Kiro!",
+      "best_for": "product launches, org posts",
+      "weight": 1.0,
+      "uses": 0,
+      "wins": 0,
+      "learned_at": null
+    },
+    {
+      "id": "#9",
+      "name": "Comparison",
+      "template": "A $X [Thing] vs [Alternative]. The [Winner] Won.",
+      "example": "A $12,000 proposal writer vs a weekend and a template.",
+      "best_for": "engagement, contrast",
+      "weight": 1.0,
+      "uses": 0,
+      "wins": 0,
+      "learned_at": null
+    },
+    {
+      "id": "#10",
+      "name": "Time Anchor",
+      "template": "Writing a [Thing] Used to Take Me N Hours. It Now Takes N Minutes.",
+      "example": "Writing a proposal used to take me 5 hours. It now takes 20 minutes.",
+      "best_for": "productivity, before/after",
+      "weight": 1.0,
+      "uses": 0,
+      "wins": 0,
+      "learned_at": null
+    },
+    {
+      "id": "#11",
+      "name": "Year/Date",
+      "template": "How to Become X in [Year] / My [Year] in Review",
+      "example": "How to Become a Cloud Engineer in 2023",
+      "best_for": "timely, searchable",
+      "weight": 1.0,
+      "uses": 0,
+      "wins": 0,
+      "learned_at": null
+    },
+    {
+      "id": "#12",
+      "name": "List with Emoji",
+      "template": "N [Things] 🚀 / N Tips for [Audience] 💡",
+      "example": "I am a Google Developer Expert! 🚀",
+      "best_for": "announcements, milestone posts",
+      "weight": 1.0,
+      "uses": 0,
+      "wins": 0,
+      "learned_at": null
+    }
+  ],
+  "archive": [],
+  "min_sample": 10,
+  "learned_at": null
+}

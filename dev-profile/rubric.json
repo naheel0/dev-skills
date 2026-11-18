@@ -1,0 +1,111 @@
+{
+  "items": [
+    {
+      "id": "bio",
+      "points": 12,
+      "weight": 1.0,
+      "fixes": 0,
+      "skips": 0,
+      "full_marks": "One-liner + voice + role + stack + contact. Under 200 chars. No 'passionate about' or 'results-driven'."
+    },
+    {
+      "id": "avatar",
+      "points": 6,
+      "weight": 1.0,
+      "fixes": 0,
+      "skips": 0,
+      "full_marks": "Clear headshot, ≥400×400, jpg/png/gif/webp, max 8MB. Not default/low-res."
+    },
+    {
+      "id": "available_for",
+      "points": 8,
+      "weight": 1.0,
+      "fixes": 0,
+      "skips": 0,
+      "full_marks": "Explicit services + engagement types (freelance, collabs, partnerships). Specific, not vague."
+    },
+    {
+      "id": "currently_hacking_on",
+      "points": 8,
+      "weight": 1.0,
+      "fixes": 0,
+      "skips": 0,
+      "full_marks": "Concrete current work. Signals activity. Not empty."
+    },
+    {
+      "id": "pronouns",
+      "points": 4,
+      "weight": 1.0,
+      "fixes": 0,
+      "skips": 0,
+      "full_marks": "Listed. Encouraged for inclusivity."
+    },
+    {
+      "id": "website",
+      "points": 4,
+      "weight": 1.0,
+      "fixes": 0,
+      "skips": 0,
+      "full_marks": "Personal site preferred. Max 100 chars."
+    },
+    {
+      "id": "social_links",
+      "points": 6,
+      "weight": 1.0,
+      "fixes": 0,
+      "skips": 0,
+      "full_marks": "GitHub + Twitter/X connected via OAuth. LinkedIn/Mastodon in bio only."
+    },
+    {
+      "id": "experience_level",
+      "points": 4,
+      "weight": 1.0,
+      "fixes": 0,
+      "skips": 0,
+      "full_marks": "Set in /settings/customization."
+    },
+    {
+      "id": "featured_repos",
+      "points": 8,
+      "weight": 1.0,
+      "fixes": 0,
+      "skips": 0,
+      "full_marks": "3–5 pinned repos, well-documented, with star counts and descriptions."
+    },
+    {
+      "id": "tags_followed",
+      "points": 6,
+      "weight": 1.0,
+      "fixes": 0,
+      "skips": 0,
+      "full_marks": "10–30 relevant tags followed. Public count."
+    },
+    {
+      "id": "orgs",
+      "points": 4,
+      "weight": 1.0,
+      "fixes": 0,
+      "skips": 0,
+      "full_marks": "2–4 org memberships. Logos shown on profile."
+    },
+    {
+      "id": "badges",
+      "points": 8,
+      "weight": 1.0,
+      "fixes": 0,
+      "skips": 0,
+      "full_marks": "Top 7 badge present + year-club + tech stickers."
+    },
+    {
+      "id": "pinned_post",
+      "points": 6,
+      "weight": 1.0,
+      "fixes": 0,
+      "skips": 0,
+      "full_marks": "Highest-value post pinned to profile top."
+    }
+  ],
+  "total": 100,
+  "min_sample": 10,
+  "learned_at": null
+}
